@@ -10,11 +10,11 @@ A simple React application to create custom memes by adding top and bottom text 
 <br/>
 
 ### Features
-Add an image URL
-Add top and bottom text
-Choose font size
+Add an image URL  
+Add top and bottom text  
+Choose font size  
 Generate meme with provided details
 
 ### Tech Stack
-React
+React  
 Styled Components
