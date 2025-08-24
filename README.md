@@ -1,4 +1,4 @@
-Meme Generator
+### Meme Generator
 A simple React application to create custom memes by adding top and bottom text to an image.
 
 ### Refer to the image below:
